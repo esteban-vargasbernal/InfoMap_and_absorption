@@ -1,4 +1,4 @@
-# An adaptation of InfoMap to absorbing random walks using absorption-scaled graphs
+# An adaptation of InfoMap to absorbing random walks using absorption-scaled graphs.
 
 This repository contains the Python code that generates numarical results of the manuscript "An adaptation of InfoMap to absorbing random walks using absorption-scaled graphs".
 
